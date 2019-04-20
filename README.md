@@ -1,4 +1,4 @@
-# Elecrow-LCD35
+# Elecrow-LCD35 (forked by TudorGruian)
 
 A slightly modified driver for those chinese displays
 ### Installing:
